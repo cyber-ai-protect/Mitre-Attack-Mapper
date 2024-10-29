@@ -20,3 +20,15 @@ python3 Mitre-Atrack-Mapper.py
 
 select Enterprise.Json, choose a name for the output JSON file, pick a color in which the TTPs should be highlighted, select a keyword you want to build the heatmap for.
 Run.
+
+
+# Show your support 
+
+It took me lots of time building the tool, so please help me to grow and I will continue building other meaningful tools for your business!
+
+https://patreon.com/Cyber_AI_Protect?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
+
+or
+
+https://buymeacoffee.com/Cyber_AI_Protect
+
