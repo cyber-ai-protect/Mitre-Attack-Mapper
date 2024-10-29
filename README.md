@@ -9,6 +9,16 @@ The script then ensures to not have any duplicates, and build a JSON heatmap tha
 And then you can focus on other tasks.
 
 
+# License
+
+This tool is distributed under CC-BY-NC-SA-2.0 license. Full credits goes to Julie Brunias. You may distribute the product or a derivative of the profuct, but need to provide all credits to the author (Julie Brunias)
+
+
+# Author
+
+Julie Brunias, 2024
+
+
 # Installation 
 
 pip install -r requirements
