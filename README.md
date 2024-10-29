@@ -11,7 +11,7 @@ And then you can focus on other tasks.
 
 # License
 
-This tool is distributed under CC-BY-NC-SA-2.0 license. Full credits goes to Julie Brunias. You may distribute the product or a derivative of the profuct, but need to provide all credits to the author (Julie Brunias)
+This tool is distributed under CC-BY-NC-SA-2.0 license. Full credits goes to Julie Brunias. You may distribute the product or a derivative of the product, but not for commercial use and you need to provide all credits to the author (Julie Brunias).
 
 
 # Author
