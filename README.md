@@ -1,6 +1,6 @@
 # Mitre-Attack-Mapper
 
-This tool lets you parse the whole Mitre Attack in search of all TTPs larching a specific keyword.
+This tool lets you parse the whole Mitre Attack in search of all TTPs matching a specific keyword.
 For instance, let's say you want to have a heatmap with all ransomware related TTPs, boom you have it within seconds.
 
 No need to manually select which Threat Actor or Campaign or Software, the tool does it for you!
